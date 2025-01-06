@@ -1,1 +1,1 @@
-(!) Want to start with an empty board
+✅ Start with an empty board
